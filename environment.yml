@@ -1,0 +1,19 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - sqlite
+  - requests
+  - pandas
+  - jinja2
+  - xarray
+  - cf_xarray
+  - hvplot
+  - netcdf4
+  - dask
+  - matplotlib
+  - cartopy
+  - zarr
+  - s3fs
+  - seaborn
+  - nc-time-axis

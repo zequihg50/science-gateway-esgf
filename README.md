@@ -6,7 +6,7 @@ The ESGF Virtual Aggregation Science Gateway provides Virtual Analysis Ready Dat
 
 ## Getting started
 
-Run the science gateway by cliking on the launchers available. The [Binder launcher](https://mybinder.org/v2/gh/zequihg50/science-gateway-esgf/HEAD?labpath=notebooks/getting-started.ipynb) allows to run the science gateway on free computational resources provided by [MyBinder.org](mybinder.org). The IFCA launcher is only accesible to users registered in the IFCA Hub.
+Run the science gateway by cliking on the launchers available. The [Binder launcher](https://mybinder.org/v2/gh/zequihg50/science-gateway-esgf/HEAD?labpath=notebooks/getting-started.ipynb) allows to run the science gateway on free computational resources provided by [MyBinder.org](https://mybinder.org). The IFCA launcher is only accesible to users registered in the IFCA Hub.
 
 ## Notebooks
 

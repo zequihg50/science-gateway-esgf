@@ -14,7 +14,9 @@ The [getting started notebook](notebooks/getting-started.ipynb) provides an over
 
 ## Notebooks
 
-[Getting started](notebooks/getting-started.ipynb) - Introduction and overview of the science gateway and its capabilities.
-[Model member agreement](notebooks/model-member-agreement.ipynb) - Ilustrates a workflow of model member agreement, based on model member democracy.
-[Analysis-Ready Cloud-Optimized](notebooks/arco.ipynb) - Illustrates how to generate ARCO datasets from the science gateway.
-[Niño 3.4 Index](notebooks/enso.ipynb) - Illustrates the calculation of Niño 3.4 index from the science gateway.
+The notebooks might be run from any computer system. For a custom installation, refer to the required packages in the [environment.yml](environment.yml) file.
+
+- [Getting started](notebooks/getting-started.ipynb) - Introduction and overview of the science gateway and its capabilities.
+- [Model member agreement](notebooks/model-member-agreement.ipynb) - Ilustrates a workflow of model member agreement, based on model member democracy.
+- [Analysis-Ready Cloud-Optimized](notebooks/arco.ipynb) - Illustrates how to generate ARCO datasets from the science gateway.
+- [Niño 3.4 Index](notebooks/enso.ipynb) - Illustrates the calculation of Niño 3.4 index from the science gateway.

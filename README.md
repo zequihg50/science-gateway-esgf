@@ -8,8 +8,13 @@ The ESGF Virtual Aggregation Science Gateway provides Virtual Analysis Ready Dat
 
 Run the science gateway by cliking on the launchers available. The [Binder launcher](https://mybinder.org/v2/gh/zequihg50/science-gateway-esgf/HEAD?labpath=notebooks/getting-started.ipynb) allows to run the science gateway on free computational resources provided by [MyBinder.org](https://mybinder.org). The IFCA launcher is only accesible to users registered in the IFCA Hub.
 
-## Notebooks
-
 The [getting started notebook](notebooks/getting-started.ipynb) provides an overview of the science gateway and how to use it. Further notebooks are available in the [notebooks](notebooks) directory.
 
 ![Snapshot of the ESGF Virtual Aggregation Science Gateway](img/jupyter-lab.png)
+
+## Notebooks
+
+[Getting started](notebooks/getting-started.ipynb) - Introduction and overview of the science gateway and its capabilities.
+[Model member agreement](notebooks/model-member-agreement.ipynb) - Ilustrates a workflow of model member agreement, based on model member democracy.
+[Analysis-Ready Cloud-Optimized](notebooks/arco.ipynb) - Illustrates how to generate ARCO datasets from the science gateway.
+[Niño 3.4 Index](notebooks/enso.ipynb) - Illustrates the calculation of Niño 3.4 index from the science gateway.
